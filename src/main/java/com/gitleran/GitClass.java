@@ -9,5 +9,6 @@ public class GitClass {
         System.out.println("hello git5");
         System.out.println("hello git6");
         System.out.println("master-commit");
+        System.out.println("hot-fix");
     }
 }
